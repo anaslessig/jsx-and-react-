@@ -20,7 +20,7 @@ function App() {
   return (
 
     <div className='info'>
-
+{/* exportation  les component  name.js price.js description.js image.js */}
 <div className='TT'>
 
 <h2>< Name /></h2>
@@ -37,7 +37,7 @@ function App() {
 
 
 <div>
-
+{/* creation card avec bootstarp  */}
 <Card style={{ width: 300 }}>
       <Card.Img variant="top"  />< Image />
       <Card.Body>
