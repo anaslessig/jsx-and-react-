@@ -1,0 +1,17 @@
+.info {
+  background-color: #282c34;
+  display: flex;
+  
+
+  padding:20px ;
+  color: white;
+ 
+
+}
+img {
+  width: 250px;
+}
+.TT{
+  width: 300px;
+  
+}
